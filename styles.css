@@ -41,14 +41,14 @@ h3{
 }
 .bottom-cloud{
   position: absolute;
-  right: 300px;
-  top: 40px;
+  right: 250px;
+  top: 300px;
 
 }
 .top-cloud{
   position: absolute;
-  left: 250px;
-  bottom: 300px;
+  right: 300px;
+  top: 40px;
 }
 
 .pro{
